@@ -22,4 +22,14 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 ```
 
-![ScreenShot](./desktop/d1.png)
+## Outputs
+
+## Diabetes Prediction
+
+![ScreenShot](./outputs/d1.png)
+![ScreenShot](./outputs/d2.png)
+
+## Movie Recommendation
+
+![ScreenShot](./outputs/m1.png)
+![ScreenShot](./outputs/m2.png)
