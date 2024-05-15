@@ -22,4 +22,4 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 ```
 
-![ScreenShot](/users/miroj/desktop/d1.png)
+![ScreenShot](./desktop/d1.png)
